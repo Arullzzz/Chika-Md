@@ -27,22 +27,22 @@ global.premium = ['6285822347348'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6285822347348' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Arull' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'ArullBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Arull' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ArullOfc' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ArullBotzMD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ArullOfc' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube '
 global.ig = 'https://instagram.com/sahrulwara_____'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'jayaberangas@gmail.com'
+global.mygc = 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+global.myweb = 'https://instagram.com/sahrulwara_____'
+global.email = 'sahrulwara62@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© ArullBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Arull' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© ArullBotzMD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'ArullOfc' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
