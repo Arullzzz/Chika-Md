@@ -5,14 +5,14 @@ const chalk = require('chalk')
 global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
-global.ownername ="*Arull Kalsel*" //ganti nama owner lu
+global.ownername ="*ArullOfc*" //ganti nama owner lu
 global.ownernumber = "6285822347348" //ganti nomor lu
-global.botname = "ArullBots" // ganti nama bot lu
+global.botname = "ArullBotzMD" // ganti nama bot lu
 global.thumbnail = fs.readFileSync("./settings/logo.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'YOUR_APIKEY' //beli di web nya https://api.lolhuman.xyz/docs
 global.dbs = '```' //Biarin aja
-global.groupowner = 'https://chat.whatsapp.com/BJvZxnHWLohKajm0JxN6nW'
+global.groupowner = 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
 
 // sewa bot
 global.sewa1bulan = 'Rp.15.000' //ganti sesuai harga
